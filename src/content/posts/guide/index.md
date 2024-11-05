@@ -3,8 +3,8 @@ title: 欢迎来到我的博客👏🏻
 published: 2024-11-05
 description: "博客的第一篇正式文章"
 image: "./cover.jpeg"
-tags: ["日常"]
-category: 日常
+tags: ["日常","其他"]
+category: 生活主线
 draft: false
 ---
 
