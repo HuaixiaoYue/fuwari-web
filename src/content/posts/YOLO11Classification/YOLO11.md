@@ -1,5 +1,5 @@
 ---
-title: 如何使用YOLO11实现分类
+title: 如何使用YOLO11实现视觉分类
 published: 2025-02-03
 description: "YOLO11"
 tags: ["Computer Vision"]
